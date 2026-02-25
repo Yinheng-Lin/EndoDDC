@@ -1,0 +1,8 @@
+# ninja log v5
+1	2624	1736758917909695282	/mnt/data2_hdd/yinheng/OGNI-DC-main/src/model/deformconv/build/temp.linux-x86_64-cpython-38/mnt/data2_hdd/yinheng/OGNI-DC-main/src/model/deformconv/src/cpu/modulated_deform_cpu.o	8fd4e47879445c94
+0	2636	1736758917922695273	/mnt/data2_hdd/yinheng/OGNI-DC-main/src/model/deformconv/build/temp.linux-x86_64-cpython-38/mnt/data2_hdd/yinheng/OGNI-DC-main/src/model/deformconv/src/cpu/deform_psroi_pooling_cpu.o	5c299e846b1e4533
+0	2653	1736758917939695261	/mnt/data2_hdd/yinheng/OGNI-DC-main/src/model/deformconv/build/temp.linux-x86_64-cpython-38/mnt/data2_hdd/yinheng/OGNI-DC-main/src/model/deformconv/src/cpu/deform_cpu.o	b59989cea86654ae
+1	9284	1736758924557690816	/mnt/data2_hdd/yinheng/OGNI-DC-main/src/model/deformconv/build/temp.linux-x86_64-cpython-38/mnt/data2_hdd/yinheng/OGNI-DC-main/src/model/deformconv/src/cuda/deform_psroi_pooling_cuda.o	7228683bfcb525aa
+1	9356	1736758924627690770	/mnt/data2_hdd/yinheng/OGNI-DC-main/src/model/deformconv/build/temp.linux-x86_64-cpython-38/mnt/data2_hdd/yinheng/OGNI-DC-main/src/model/deformconv/src/cuda/deform_conv_cuda.o	612c247306272ff9
+1	9557	1736758924635690765	/mnt/data2_hdd/yinheng/OGNI-DC-main/src/model/deformconv/build/temp.linux-x86_64-cpython-38/mnt/data2_hdd/yinheng/OGNI-DC-main/src/model/deformconv/src/cuda/modulated_deform_conv_cuda.o	ae29fb40c2d3b84b
+1	13230	1736758928503688294	/mnt/data2_hdd/yinheng/OGNI-DC-main/src/model/deformconv/build/temp.linux-x86_64-cpython-38/mnt/data2_hdd/yinheng/OGNI-DC-main/src/model/deformconv/src/vision.o	ca77f20cffc9b041
